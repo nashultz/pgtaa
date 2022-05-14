@@ -1,0 +1,9 @@
+.navbar-brand img {
+    height: 100px;
+}
+
+.hero-vape {
+    height: 150px;
+    background-color: #000;
+    background-image: url('../img/Vape.png');
+}
