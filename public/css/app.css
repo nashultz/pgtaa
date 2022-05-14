@@ -1,6 +1,9 @@
 body, .offcanvas {
     background-color: rgb(20, 20, 20) !important;
-    margin-top: 70px;
+}
+
+body {
+    margin-top: 120px;
 }
 
 .navbar {
